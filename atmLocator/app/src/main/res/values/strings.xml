@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">atmLocator</string>
+
+    <string name="zipcode">Please enter your location zipcode</string>
+    <string name="atmlocator">ATM Locator</string>
+    <string name="action_settings">Settings</string>
+    <string name="Search">Search</string>
+</resources>
